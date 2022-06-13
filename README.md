@@ -1,4 +1,4 @@
-### Sistema de Gestión Supermark
+## Sistema de Gestión Supermark
 
 * Contexto 
 
