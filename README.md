@@ -33,7 +33,7 @@ Consideraciones
         -	No se puede seleccionar un producto con stock 0
         -	Los usuarios pueden seleccionar hasta 30 artículos.
 
-### ENTREGABLES
+## ENTREGABLES
 
 # Checkpoint 1 (Fecha: 13/06 al 16/06)
 
